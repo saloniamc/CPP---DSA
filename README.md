@@ -23,6 +23,8 @@ This repository contains the theory and C++ implementations of a wide range of d
 5. **Queues**
    
 ## Advanced Data Structures
+1. ****
+
 ## Searching Algorithms
 ## Sorting Algorithms
 ## Graph Algorithms
